@@ -1,0 +1,14 @@
+.env.local
+
+# .gitignore
+backend/
+.env
+backend/.env
+backend/ai-search-backend/.env
+
+public/reel.mp4
+dist/
+node_modules/
+backend/uploads/
+*.mp3
+*.mp4

@@ -1,0 +1,1232 @@
+[
+  {
+    "id": "1",
+    "name": "Moçambique",
+    "flag": "/flags/Mz.jpg",
+    "description": "Moçambique é um destino emergente para negócios e turismo na África Austral, com oportunidades crescentes em educação e trabalho.",
+    "community": {
+      "email": "mailto:une@trilhoacademico.edu.mz",
+      "whatsapp": "tel:+25821105384",
+      "instagram": "https://www.facebook.com/une.moz"
+    },
+    "visaInfo": {
+      "studyVisa": {
+        "description": "Necessário para estrangeiros que pretendem estudar em instituições moçambicanas.",
+        "requirements": [
+          "Carta de aceitação da instituição de ensino",
+          "Comprovativo de meios financeiros",
+          "Passaporte válido",
+          "Certificado de registo criminal"
+        ],
+        "validity": "1 ano, renovável",
+        "steps": [
+          "Obter carta de aceitação",
+          "Reunir documentos financeiros",
+          "Submeter candidatura ao visto no consulado ou online",
+          "Agendar entrevista, se necessário"
+        ],
+        "pdfLink": "#",
+        "officialWebsite": "https://www.mozambiquetravel.gov.mz",
+        "contact": {
+          "address": "Av. 25 de Setembro, Maputo",
+          "phone": "+258 21 123 456",
+          "email": "vistos@mz.gov.mz"
+        }
+      },
+      "workPermit": {
+        "description": "Necessário para estrangeiros que pretendem trabalhar legalmente em Moçambique.",
+        "requirements": [
+          "Contrato de trabalho com empresa registada",
+          "Comprovativo de qualificações",
+          "Certificado de registo criminal"
+        ],
+        "steps": [
+          "Obter contrato de trabalho",
+          "Submeter pedido através do empregador",
+          "Participar em entrevista se solicitado",
+          "Receber autorização de trabalho"
+        ],
+        "pdfLink": "#",
+        "officialWebsite": "https://www.miti.gov.mz",
+        "contact": {
+          "address": "Av. 25 de Setembro, Maputo",
+          "phone": "+258 21 123 456",
+          "email": "vistostrabalho@mz.gov.mz"
+        }
+      },
+      "touristVisa": {
+        "description": "Necessário para visitas curtas a Moçambique para turismo ou negócios.",
+        "requirements": [
+          "Passaporte válido",
+          "Bilhete de ida e volta",
+          "Comprovativo de alojamento ou convite"
+        ],
+        "validity": "30 dias, extensível até 90 dias",
+        "steps": [
+          "Submeter candidatura online ou na fronteira",
+          "Pagar taxa do visto",
+          "Receber visto na entrada ou embaixada"
+        ],
+        "pdfLink": "#",
+        "officialWebsite": "https://www.mozambiquetravel.gov.mz",
+        "contact": {
+          "address": "Av. 25 de Setembro, Maputo",
+          "phone": "+258 21 123 456",
+          "email": "vistosturismo@mz.gov.mz"
+        }
+      },
+      "rules": [
+        "Levar sempre documentos de identificação",
+        "Respeitar o prazo máximo de permanência",
+        "Registar residência junto das autoridades locais, se exigido"
+      ]
+    }
+  },
+  {
+    "id": "2",
+    "name": "África do Sul",
+    "flag": "/flags/Za.jpg",
+    "description": "A África do Sul é um destino popular para estudantes moçambicanos que procuram ensino superior ou oportunidades de trabalho.",
+    "community": {
+      "email": "mailto:amecc@trilhoacademico.edu.mz",
+      "whatsapp": "tel:+27835540289",
+      "instagram": "https://www.instagram.com/ameccmz"
+    },
+    "visaInfo": {
+      "studyVisa": {
+        "description": "Necessário para estudantes moçambicanos que pretendem frequentar universidades na África do Sul.",
+        "requirements": [
+          "Carta de aceitação de uma instituição reconhecida",
+          "Comprovativo de meios financeiros",
+          "Passaporte válido",
+          "Exame médico e certificado de registo criminal"
+        ],
+        "validity": "1 ano, renovável",
+        "steps": [
+          "Obter carta de aceitação da universidade",
+          "Preparar comprovativos financeiros",
+          "Submeter candidatura ao visto online",
+          "Agendar entrevista na embaixada"
+        ],
+        "pdfLink": "#",
+        "officialWebsite": "https://www.dha.gov.za",
+        "contact": {
+          "address": "123 Main Street, Pretória",
+          "phone": "+27 12 345 6789",
+          "email": "visto.sa@example.com"
+        }
+      },
+      "workPermit": {
+        "description": "Necessário para moçambicanos que pretendem trabalhar na África do Sul.",
+        "requirements": [
+          "Oferta de emprego de uma empresa sul-africana",
+          "Qualificações e experiência relevantes",
+          "Certificado de registo criminal"
+        ],
+        "steps": [
+          "Obter oferta de emprego",
+          "Reunir documentos necessários",
+          "Submeter candidatura ao visto de trabalho online",
+          "Participar em entrevista na embaixada, se necessário"
+        ],
+        "pdfLink": "#",
+        "officialWebsite": "https://www.dha.gov.za",
+        "contact": {
+          "address": "123 Main Street, Pretória",
+          "phone": "+27 12 345 6789",
+          "email": "vistotrabalho.sa@example.com"
+        }
+      },
+      "touristVisa": {
+        "description": "Para viagens de curta duração, turismo ou visitas familiares.",
+        "requirements": [
+          "Passaporte válido",
+          "Bilhete de regresso",
+          "Comprovativo de alojamento"
+        ],
+        "validity": "90 dias",
+        "steps": [
+          "Preencher candidatura online",
+          "Carregar documentos necessários",
+          "Pagar taxa do visto",
+          "Levantar visto na embaixada"
+        ],
+        "pdfLink": "#",
+        "officialWebsite": "https://www.dha.gov.za",
+        "contact": {
+          "address": "123 Main Street, Pretória",
+          "phone": "+27 12 345 6789",
+          "email": "vistoturismo.sa@example.com"
+        }
+      },
+      "rules": [
+        "Andar sempre com o passaporte",
+        "Não ultrapassar a validade do visto",
+        "Registar-se junto das autoridades locais, se necessário"
+      ]
+    }
+  },
+  {
+    "id": "3",
+    "name": "Portugal",
+    "flag": "/flags/Pt.jpg",
+    "description": "Portugal é um destino comum para estudantes moçambicanos devido à língua e laços culturais partilhados.",
+    "community": {
+      "email": "mailto:aemop.nl@trilhoacademico.edu.mz",
+      "whatsapp": "https://chat.whatsapp.com/CBDrMWszPpSE0HotzQRZ37?fbclid=PAZXh0bgNhZW0CMTEAAaduJGgYv_Aid0UcUz3hYc3BYg7o5s0i7IdA7ct_iwGjxIhupUk894wdhaqrEw_aem_-sCfhf72Ecj_F_66VXNwRQ",
+      "instagram": "https://www.instagram.com/aemoplisboa"
+    },
+    "visaInfo": {
+      "studyVisa": {
+        "description": "Necessário para estudar em universidades portuguesas.",
+        "requirements": [
+          "Carta de aceitação da universidade",
+          "Comprovativo de meios financeiros",
+          "Seguro de saúde",
+          "Passaporte válido"
+        ],
+        "validity": "Válido pela duração dos estudos",
+        "steps": [
+          "Obter carta de aceitação da universidade",
+          "Preparar documentos financeiros e de seguro",
+          "Submeter candidatura online",
+          "Visitar a embaixada, se necessário"
+        ],
+        "pdfLink": "#",
+        "officialWebsite": "https://www.sef.pt",
+        "contact": {
+          "address": "456 Lisbon Ave, Lisboa",
+          "phone": "+351 21 123 4567",
+          "email": "vistos.pt@example.com"
+        }
+      },
+      "workPermit": {
+        "description": "Necessário para cidadãos não pertencentes à UE que pretendem trabalhar em Portugal.",
+        "requirements": [
+          "Contrato de trabalho",
+          "Competências ou diploma relevante",
+          "Candidatura a autorização de residência"
+        ],
+        "steps": [
+          "Obter proposta de emprego",
+          "Reunir documentos necessários",
+          "Submeter candidatura online ou na embaixada",
+          "Aguardar aprovação"
+        ],
+        "pdfLink": "#",
+        "officialWebsite": "https://www.sef.pt",
+        "contact": {
+          "address": "456 Lisbon Ave, Lisboa",
+          "phone": "+351 21 123 4567",
+          "email": "vistotrabalho.pt@example.com"
+        }
+      },
+      "touristVisa": {
+        "description": "Para visitas curtas até 90 dias para turismo ou visitas familiares.",
+        "requirements": [
+          "Passaporte válido",
+          "Itinerário de viagem",
+          "Comprovativo de meios financeiros"
+        ],
+        "validity": "90 dias",
+        "steps": [
+          "Preencher candidatura online",
+          "Carregar documentos necessários",
+          "Pagar taxa do visto",
+          "Levantar visto na embaixada"
+        ],
+        "pdfLink": "#",
+        "officialWebsite": "https://www.sef.pt",
+        "contact": {
+          "address": "456 Lisbon Ave, Lisboa",
+          "phone": "+351 21 123 4567",
+          "email": "vistoturismo.pt@example.com"
+        }
+      },
+      "rules": [
+        "Solicitar autorização de residência nos primeiros 90 dias após chegada",
+        "O trabalho só é permitido com autorização válida"
+      ]
+    }
+  },
+  {
+    "id": "4",
+    "name": "Chipre",
+    "flag": "/flags/Cy.jpg",
+    "description": "Chipre é conhecido pelo seu sistema educacional acessível e clima agradável, atraindo estudantes e trabalhadores estrangeiros.",
+    "community": {
+      "email": "mailto:chipre@trilhoacademico.edu.mz",
+      "whatsapp": "",
+      "instagram": ""
+    },
+    "visaInfo": {
+      "studyVisa": {
+        "description": "Necessário para frequentar instituições de ensino em Chipre.",
+        "requirements": [
+          "Carta de aceitação",
+          "Comprovativo financeiro",
+          "Seguro de saúde",
+          "Passaporte válido"
+        ],
+        "validity": "Duração do curso",
+        "steps": [
+          "Receber carta de aceitação",
+          "Reunir documentos exigidos",
+          "Submeter pedido à embaixada",
+          "Participar na entrevista"
+        ],
+        "pdfLink": "#",
+        "officialWebsite": "https://mfa.gov.cy",
+        "contact": {
+          "address": "Nicosia, Chipre",
+          "phone": "+357 22 651 000",
+          "email": "vistos@cyprus.gov.cy"
+        }
+      },
+      "workPermit": {
+        "description": "Exigido para estrangeiros que pretendem trabalhar em Chipre.",
+        "requirements": [
+          "Oferta de emprego",
+          "Contrato de trabalho",
+          "Seguro médico"
+        ],
+        "steps": [
+          "Obter proposta de emprego",
+          "Submeter candidatura através do empregador",
+          "Receber aprovação",
+          "Emitir autorização de residência"
+        ],
+        "pdfLink": "#",
+        "officialWebsite": "https://mfa.gov.cy",
+        "contact": {
+          "address": "Nicosia, Chipre",
+          "phone": "+357 22 651 000",
+          "email": "vistostrabalho@cyprus.gov.cy"
+        }
+      },
+      "touristVisa": {
+        "description": "Para estadias curtas de turismo.",
+        "requirements": [
+          "Passaporte válido",
+          "Bilhete de regresso",
+          "Comprovativo de alojamento"
+        ],
+        "validity": "90 dias",
+        "steps": [
+          "Preencher candidatura online",
+          "Submeter documentos",
+          "Receber aprovação"
+        ],
+        "pdfLink": "#",
+        "officialWebsite": "https://mfa.gov.cy",
+        "contact": {
+          "address": "Nicosia, Chipre",
+          "phone": "+357 22 651 000",
+          "email": "vistosturismo@cyprus.gov.cy"
+        }
+      },
+      "rules": [
+        "Registar residência em 7 dias após chegada",
+        "Cumprir regras de permanência e trabalho"
+      ]
+    }
+  },
+  {
+    "id": "5",
+    "name": "Alemanha",
+    "flag": "/flags/De.jpg",
+    "description": "A Alemanha oferece ensino superior gratuito e oportunidades para profissionais qualificados.",
+    "community": {
+      "email": "mailto:alemanha@trilhoacademico.edu.mz",
+      "whatsapp": "",
+      "instagram": ""
+    },
+    "visaInfo": {
+      "studyVisa": {
+        "description": "Necessário para estudar em universidades alemãs.",
+        "requirements": [
+          "Carta de aceitação",
+          "Conta bloqueada com fundos",
+          "Seguro de saúde",
+          "Passaporte válido"
+        ],
+        "validity": "Duração do curso",
+        "steps": [
+          "Receber carta de aceitação",
+          "Abrir conta bloqueada",
+          "Submeter candidatura ao visto",
+          "Participar na entrevista"
+        ],
+        "pdfLink": "#",
+        "officialWebsite": "https://www.daad.de",
+        "contact": {
+          "address": "Embaixada da Alemanha, Maputo",
+          "phone": "+258 21 492 400",
+          "email": "vistos@maputo.diplo.de"
+        }
+      },
+      "workPermit": {
+        "description": "Necessário para trabalhar legalmente na Alemanha.",
+        "requirements": [
+          "Oferta de emprego",
+          "Reconhecimento de qualificações",
+          "Seguro médico"
+        ],
+        "steps": [
+          "Obter contrato de trabalho",
+          "Solicitar visto de trabalho",
+          "Receber autorização de residência"
+        ],
+        "pdfLink": "#",
+        "officialWebsite": "https://www.make-it-in-germany.com",
+        "contact": {
+          "address": "Embaixada da Alemanha, Maputo",
+          "phone": "+258 21 492 400",
+          "email": "vistostrabalho@maputo.diplo.de"
+        }
+      },
+      "touristVisa": {
+        "description": "Necessário para estadias curtas na Alemanha.",
+        "requirements": [
+          "Passaporte válido",
+          "Seguro de viagem",
+          "Comprovativo financeiro"
+        ],
+        "validity": "90 dias",
+        "steps": [
+          "Submeter candidatura",
+          "Participar na entrevista",
+          "Receber decisão"
+        ],
+        "pdfLink": "#",
+        "officialWebsite": "https://www.germany-visa.org",
+        "contact": {
+          "address": "Embaixada da Alemanha, Maputo",
+          "phone": "+258 21 492 400",
+          "email": "vistosturismo@maputo.diplo.de"
+        }
+      },
+      "rules": [
+        "Respeitar limites de trabalho para estudantes",
+        "Registrar-se no escritório local após chegada"
+      ]
+    }
+  },
+  {
+    "id": "6",
+    "name": "Malásia",
+    "flag": "/flags/My.jpg",
+    "description": "A Malásia é conhecida pela educação de qualidade e baixo custo de vida.",
+    "community": {
+      "email": "mailto:apu@trilhoacademico.edu.mz",
+      "whatsapp": "tel:+60183680284",
+      "instagram": "https://www.instagram.com/apu_moz_community"
+    },
+    "visaInfo": {
+      "studyVisa": {
+        "description": "Necessário para estudantes internacionais na Malásia.",
+        "requirements": [
+          "Carta de aceitação",
+          "Seguro de saúde",
+          "Comprovativo financeiro",
+          "Passaporte válido"
+        ],
+        "validity": "Duração do curso",
+        "steps": [
+          "Obter carta de aceitação",
+          "Submeter candidatura online",
+          "Receber aprovação",
+          "Levantamento do visto na embaixada"
+        ],
+        "pdfLink": "#",
+        "officialWebsite": "https://educationmalaysia.gov.my",
+        "contact": {
+          "address": "Kuala Lumpur, Malásia",
+          "phone": "+60 3 8870 6000",
+          "email": "vistos@malaysia.gov.my"
+        }
+      },
+      "rules": [
+        "Não ultrapassar a validade do visto",
+        "Respeitar restrições de trabalho"
+      ]
+    }
+  },
+  {
+    "id": "7",
+    "name": "Polónia",
+    "flag": "/flags/Pl.jpg",
+    "description": "A Polónia oferece ensino acessível e é parte do Espaço Schengen, permitindo mobilidade pela Europa.",
+    "community": {
+      "email": "mailto:polonia@trilhoacademico.edu.mz",
+      "whatsapp": "",
+      "instagram": ""
+    },
+    "visaInfo": {
+      "studyVisa": {
+        "description": "Necessário para estudar em universidades polacas.",
+        "requirements": [
+          "Carta de aceitação",
+          "Comprovativo financeiro",
+          "Seguro de saúde",
+          "Passaporte válido"
+        ],
+        "validity": "Duração do curso",
+        "steps": [
+          "Receber carta de aceitação",
+          "Submeter candidatura",
+          "Agendar entrevista",
+          "Receber aprovação"
+        ],
+        "pdfLink": "#",
+        "officialWebsite": "https://www.gov.pl",
+        "contact": {
+          "address": "Varsóvia, Polónia",
+          "phone": "+48 22 123 456",
+          "email": "vistos@poland.gov.pl"
+        }
+      },
+      "rules": [
+        "Respeitar as regras do Espaço Schengen",
+        "Registrar residência ao chegar, se aplicável"
+      ]
+    }
+  },
+  {
+    "id": "8",
+    "name": "Estados Unidos da América",
+    "flag": "/flags/Usa.png",
+    "description": "Os EUA oferecem programas de estudo diversificados e oportunidades de carreira para cidadãos estrangeiros.",
+    "community": {
+      "email": "mailto:eua@trilhoacademico.edu.mz",
+      "whatsapp": "",
+      "instagram": ""
+    },
+    "visaInfo": {
+      "studyVisa": {
+        "description": "Visto F-1 necessário para estudar em universidades nos EUA.",
+        "requirements": [
+          "Formulário I-20 emitido por uma instituição americana",
+          "Comprovativo de capacidade financeira",
+          "Passaporte válido",
+          "Comprovativo de pagamento SEVIS"
+        ],
+        "validity": "Válido pela duração do curso académico",
+        "steps": [
+          "Receber formulário I-20",
+          "Pagar taxa SEVIS",
+          "Preencher formulário DS-160",
+          "Participar na entrevista na embaixada"
+        ],
+        "pdfLink": "#",
+        "officialWebsite": "https://travel.state.gov",
+        "contact": {
+          "address": "Embaixada dos EUA, Maputo",
+          "phone": "+258 21 492 797",
+          "email": "vistosmaputo@state.gov"
+        }
+      },
+      "rules": [
+        "O visto deve estar válido durante toda a estadia",
+        "Ultrapassar a validade do visto pode resultar em proibições futuras",
+        "Registo SEVIS obrigatório para estudantes"
+      ]
+    }
+  },
+  {
+    "id": "9",
+    "name": "Espanha",
+    "flag": "/flags/Sp.jpg",
+    "description": "A Espanha oferece uma rica experiência cultural e excelentes universidades, além de fazer parte do Espaço Schengen.",
+    "community": {
+      "email": "mailto:espanha@trilhoacademico.edu.mz",
+      "whatsapp": "",
+      "instagram": ""
+    },
+    "visaInfo": {
+      "studyVisa": {
+        "description": "Necessário para estudar em universidades espanholas.",
+        "requirements": [
+          "Carta de aceitação",
+          "Seguro de saúde",
+          "Comprovativo financeiro",
+          "Passaporte válido"
+        ],
+        "validity": "Duração do curso",
+        "steps": [
+          "Receber carta de aceitação",
+          "Reunir documentos",
+          "Submeter candidatura na embaixada",
+          "Aguardar aprovação"
+        ],
+        "pdfLink": "#",
+        "officialWebsite": "https://www.exteriores.gob.es",
+        "contact": {
+          "address": "Embaixada da Espanha, Maputo",
+          "phone": "+258 21 492 800",
+          "email": "vistos@maec.es"
+        }
+      },
+      "rules": [
+        "Respeitar regras do Espaço Schengen",
+        "Solicitar residência se estadia for superior a 90 dias"
+      ]
+    }
+  },
+  {
+    "id": "10",
+    "name": "Brasil",
+    "flag": "/flags/Br.jpg",
+    "description": "O Brasil compartilha laços culturais e linguísticos com Moçambique, sendo um destino popular para estudos e turismo.",
+    "community": {
+      "email": "mailto:brasil@trilhoacademico.edu.mz",
+      "whatsapp": "",
+      "instagram": ""
+    },
+    "visaInfo": {
+      "studyVisa": {
+        "description": "Necessário para estudar em universidades brasileiras.",
+        "requirements": [
+          "Carta de aceitação de instituição brasileira",
+          "Comprovativo financeiro",
+          "Passaporte válido",
+          "Seguro de saúde"
+        ],
+        "validity": "Duração do curso",
+        "steps": [
+          "Receber carta de aceitação",
+          "Submeter candidatura ao visto",
+          "Apresentar documentos na embaixada",
+          "Aguardar aprovação"
+        ],
+        "pdfLink": "#",
+        "officialWebsite": "https://www.gov.br/mre",
+        "contact": {
+          "address": "Embaixada do Brasil, Maputo",
+          "phone": "+258 21 492 200",
+          "email": "vistos@itamaraty.gov.br"
+        }
+      },
+      "rules": [
+        "Registro obrigatório na Polícia Federal em até 30 dias após chegada",
+        "Não ultrapassar o prazo máximo do visto"
+      ]
+    }
+  },
+  {
+    "id": "11",
+    "name": "Reino Unido",
+    "flag": "/flags/Uk.jpg",
+    "description": "O Reino Unido é conhecido por suas universidades de prestígio e oportunidades de trabalho, sendo um dos destinos mais procurados por estudantes e profissionais.",
+    "community": {
+      "email": "mailto:reino.unido@trilhoacademico.edu.mz",
+      "whatsapp": "",
+      "instagram": ""
+    },
+    "visaInfo": {
+      "studyVisa": {
+        "description": "O visto de estudante (Student Visa) é necessário para estudar em instituições britânicas.",
+        "requirements": [
+          "Carta de aceitação (CAS) de uma instituição aprovada",
+          "Comprovativo financeiro",
+          "Teste de inglês (IELTS ou equivalente)",
+          "Passaporte válido"
+        ],
+        "validity": "Duração do curso + 4 meses adicionais",
+        "steps": [
+          "Receber CAS da instituição",
+          "Preencher aplicação online",
+          "Pagar taxa e NHS (saúde)",
+          "Agendar entrevista e biometria",
+          "Aguardar aprovação"
+        ],
+        "pdfLink": "#",
+        "officialWebsite": "https://www.gov.uk/student-visa",
+        "contact": {
+          "address": "British High Commission, Maputo",
+          "phone": "+258 21 356 000",
+          "email": "visas.maputo@fcdo.gov.uk"
+        }
+      },
+      "rules": [
+        "Não ultrapassar o prazo máximo do visto",
+        "Trabalho restrito para estudantes, exceto em regimes autorizados",
+        "Respeitar leis britânicas e condições do visto"
+      ]
+    }
+  },
+  {
+    "id": "12",
+    "name": "Índia",
+    "flag": "/flags/In.webp",
+    "description": "A Índia é um destino popular para estudantes internacionais e negócios, oferecendo uma rica cultura e programas educacionais acessíveis.",
+    "community": {
+      "email": "mailto:india@trilhoacademico.edu.mz",
+      "whatsapp": "tel:+919724380357",
+      "instagram": ""
+    },
+    "visaInfo": {
+      "studyVisa": {
+        "description": "O Student Visa é necessário para estudantes estrangeiros matriculados em instituições indianas.",
+        "requirements": [
+          "Carta de aceitação de instituição reconhecida",
+          "Comprovativo financeiro",
+          "Passaporte válido",
+          "Fotografias recentes",
+          "Seguro de saúde"
+        ],
+        "validity": "Duração do curso + 90 dias adicionais",
+        "steps": [
+          "Receber carta de aceitação",
+          "Preencher formulário online",
+          "Submeter documentos na embaixada",
+          "Agendar entrevista",
+          "Receber aprovação do visto"
+        ],
+        "pdfLink": "#",
+        "officialWebsite": "https://www.hcimaputo.gov.in",
+        "contact": {
+          "address": "High Commission of India, Maputo",
+          "phone": "(00-258) 21 492 437 / 490 717",
+          "email": "cons.maputo@mea.gov.in"
+        }
+      },
+      "rules": [
+        "Respeitar as condições específicas do visto",
+        "Registro obrigatório no FRRO (Foreigners Regional Registration Office) para estadias acima de 180 dias",
+        "Trabalho não é permitido com visto de turismo"
+      ]
+    }
+  },
+  {
+    "id": "13",
+    "name": "Canadá",
+    "flag": "/flags/Ca.jpg",
+    "description": "O Canadá oferece educação de alta qualidade, ambiente seguro e oportunidades de trabalho pós-graduação.",
+    "community": {
+      "email": "",
+      "whatsapp": "",
+      "instagram": ""
+    },
+    "visaInfo": {
+      "studyVisa": {
+        "description": "Necessário para estudantes internacionais que pretendem estudar no Canadá.",
+        "requirements": [
+          "Carta de aceitação",
+          "Comprovativo financeiro",
+          "Passaporte válido",
+          "Certificado médico",
+          "Carta de intenção"
+        ],
+        "validity": "Duração do curso",
+        "steps": [
+          "Receber carta de aceitação",
+          "Submeter pedido online",
+          "Pagar taxa",
+          "Agendar biometria",
+          "Aguardar"
+        ],
+        "pdfLink": "#",
+        "officialWebsite": "https://www.educanada.ca",
+        "contact": {
+          "address": "VFS Global, Maputo",
+          "phone": "+258 21 123 456",
+          "email": "info@vfsglobal.com"
+        }
+      },
+      "workPermit": {
+        "description": "Consulte o website oficial para informações sobre visto de trabalho."
+      },
+      "touristVisa": {
+        "description": "Consulte o website oficial para informações sobre visto de turismo."
+      },
+      "rules": [
+        "Trabalho limitado a 20 horas/semana durante estudos",
+        "Trabalho irrestrito durante férias"
+      ]
+    }
+  },
+  {
+    "id": "14",
+    "name": "França",
+    "flag": "/flags/Fr.jpg",
+    "description": "Destino europeu com ensino de alta qualidade e forte apoio a estudantes internacionais.",
+    "community": {
+      "email": "",
+      "whatsapp": "",
+      "instagram": ""
+    },
+    "visaInfo": {
+      "studyVisa": {
+        "description": "Necessário para estudantes internacionais que pretendem estudar na França.",
+        "requirements": [
+          "Carta de aceitação",
+          "Comprovativo financeiro",
+          "Passaporte válido",
+          "Seguro de saúde",
+          "Certificado de alojamento",
+          "Formulário preenchido"
+        ],
+        "validity": "Duração do curso",
+        "steps": [
+          "Receber carta de aceitação",
+          "Submeter pedido online",
+          "Pagar taxa",
+          "Agendar entrevista",
+          "Aguardar decisão"
+        ],
+        "pdfLink": "#",
+        "officialWebsite": "https://www.campusfrance.org",
+        "contact": {
+          "address": "Embaixada da França, Maputo",
+          "phone": "+258 21 492 400",
+          "email": "maputo@ambafrance-mz.org"
+        }
+      },
+      "workPermit": {
+        "description": "Consulte o website oficial para informações sobre visto de trabalho."
+      },
+      "touristVisa": {
+        "description": "Consulte o website oficial para informações sobre visto de turismo."
+      },
+      "rules": [
+        "Trabalho limitado a 964 horas/ano",
+        "Permissão necessária para trabalho"
+      ]
+    }
+  },
+  {
+    "id": "15",
+    "name": "Holanda",
+    "flag": "/flags/Nl.jpg",
+    "description": "País com forte oferta de cursos em inglês e ambiente internacional.",
+    "community": {
+      "email": "",
+      "whatsapp": "",
+      "instagram": ""
+    },
+    "visaInfo": {
+      "studyVisa": {
+        "description": "Necessário para estudantes internacionais que pretendem estudar na Holanda.",
+        "requirements": [
+          "Carta de aceitação",
+          "Comprovativo financeiro",
+          "Passaporte válido",
+          "Seguro de saúde",
+          "Certificados académicos"
+        ],
+        "validity": "Duração do curso",
+        "steps": [
+          "Receber carta de aceitação",
+          "Submeter pedido de MVV",
+          "Pagar taxa",
+          "Agendar entrevista",
+          "Viajar"
+        ],
+        "pdfLink": "#",
+        "officialWebsite": "https://www.studyinholland.nl",
+        "contact": {
+          "address": "Embaixada dos Países Baixos, Maputo",
+          "phone": "+258 21 492 500",
+          "email": "map@minbuza.nl"
+        }
+      },
+      "workPermit": {
+        "description": "Consulte o website oficial para informações sobre visto de trabalho."
+      },
+      "touristVisa": {
+        "description": "Consulte o website oficial para informações sobre visto de turismo."
+      },
+      "rules": [
+        "Trabalho limitado a 16 horas/semana",
+        "Permissão necessária para trabalho"
+      ]
+    }
+  },
+  {
+    "id": "16",
+    "name": "Itália",
+    "flag": "/flags/It.jpg",
+    "description": "Excelente opção com propinas acessíveis e bolsas disponíveis.",
+    "community": {
+      "email": "",
+      "whatsapp": "",
+      "instagram": ""
+    },
+    "visaInfo": {
+      "studyVisa": {
+        "description": "Necessário para estudantes internacionais que pretendem estudar na Itália.",
+        "requirements": [
+          "Carta de aceitação",
+          "Comprovativo financeiro",
+          "Passaporte válido",
+          "Seguro de saúde",
+          "Certificado médico",
+          "Certificados académicos"
+        ],
+        "validity": "Duração do curso",
+        "steps": [
+          "Receber carta de aceitação",
+          "Submeter pedido",
+          "Pagar taxa",
+          "Agendar entrevista",
+          "Aguardar decisão"
+        ],
+        "pdfLink": "#",
+        "officialWebsite": "https://www.universitaly.it",
+        "contact": {
+          "address": "Embaixada da Itália, Maputo",
+          "phone": "+258 21 492 600",
+          "email": "ambmaputo@esteri.it"
+        }
+      },
+      "workPermit": {
+        "description": "Consulte o website oficial para informações sobre visto de trabalho."
+      },
+      "touristVisa": {
+        "description": "Consulte o website oficial para informações sobre visto de turismo."
+      },
+      "rules": [
+        "Trabalho limitado a 20 horas/semana",
+        "Permissão necessária para trabalho"
+      ]
+    }
+  },
+  {
+    "id": "17",
+    "name": "China",
+    "flag": "/flags/Cn.jpg",
+    "description": "Grande oferta de bolsas e universidades de topo em crescimento.",
+    "community": {
+      "email": "",
+      "whatsapp": "",
+      "instagram": ""
+    },
+    "visaInfo": {
+      "studyVisa": {
+        "description": "Necessário para estudantes internacionais que pretendem estudar na China.",
+        "requirements": [
+          "Carta de aceitação",
+          "Comprovativo financeiro",
+          "Passaporte válido",
+          "Certificado médico",
+          "Comprovativo financeiro"
+        ],
+        "validity": "Duração do curso",
+        "steps": [
+          "Receber carta de aceitação",
+          "Submeter pedido",
+          "Pagar taxa",
+          "Agendar entrevista",
+          "Viajar"
+        ],
+        "pdfLink": "#",
+        "officialWebsite": "https://www.campuschina.org",
+        "contact": {
+          "address": "Embaixada da China, Maputo",
+          "phone": "+258 21 492 700",
+          "email": "chinaemb_mz@mfa.gov.cn"
+        }
+      },
+      "workPermit": {
+        "description": "Consulte o website oficial para informações sobre visto de trabalho."
+      },
+      "touristVisa": {
+        "description": "Consulte o website oficial para informações sobre visto de turismo."
+      },
+      "rules": [
+        "Trabalho não permitido durante estudos",
+        "Permissão necessária para trabalho"
+      ]
+    }
+  },
+  {
+    "id": "18",
+    "name": "Irlanda",
+    "flag": "/flags/Ie.jpg",
+    "description": "País com forte economia e oportunidades de trabalho pós-graduação.",
+    "community": {
+      "email": "",
+      "whatsapp": "",
+      "instagram": ""
+    },
+    "visaInfo": {
+      "studyVisa": {
+        "description": "Necessário para estudantes internacionais que pretendem estudar na Irlanda.",
+        "requirements": [
+          "Carta de aceitação",
+          "Comprovativo financeiro",
+          "Passaporte válido",
+          "Seguro de saúde",
+          "Certificado médico"
+        ],
+        "validity": "Duração do curso",
+        "steps": [
+          "Receber carta de aceitação",
+          "Submeter pedido online",
+          "Pagar taxa",
+          "Agendar biometria",
+          "Aguardar"
+        ],
+        "pdfLink": "#",
+        "officialWebsite": "https://www.educationinireland.com",
+        "contact": {
+          "address": "Embaixada da Irlanda, Maputo",
+          "phone": "+258 21 492 800",
+          "email": "maputo@dfa.ie"
+        }
+      },
+      "workPermit": {
+        "description": "Consulte o website oficial para informações sobre visto de trabalho."
+      },
+      "touristVisa": {
+        "description": "Consulte o website oficial para informações sobre visto de turismo."
+      },
+      "rules": [
+        "Trabalho limitado a 20 horas/semana",
+        "Trabalho irrestrito durante férias"
+      ]
+    }
+  },
+  {
+    "id": "19",
+    "name": "Suécia",
+    "flag": "/flags/Se.jpg",
+    "description": "País com alta qualidade de vida e forte foco em inovação.",
+    "community": {
+      "email": "",
+      "whatsapp": "",
+      "instagram": ""
+    },
+    "visaInfo": {
+      "studyVisa": {
+        "description": "Necessário para estudantes internacionais que pretendem estudar na Suécia.",
+        "requirements": [
+          "Carta de aceitação",
+          "Comprovativo financeiro",
+          "Passaporte válido",
+          "Seguro de saúde",
+          "Certificado médico"
+        ],
+        "validity": "Duração do curso",
+        "steps": [
+          "Receber carta de aceitação",
+          "Submeter pedido",
+          "Pagar taxa",
+          "Agendar entrevista",
+          "Aguardar"
+        ],
+        "pdfLink": "#",
+        "officialWebsite": "https://www.universityadmissions.se",
+        "contact": {
+          "address": "Embaixada da Suécia, Maputo",
+          "phone": "+258 21 492 900",
+          "email": "ambassaden.maputo@gov.se"
+        }
+      },
+      "workPermit": {
+        "description": "Consulte o website oficial para informações sobre visto de trabalho."
+      },
+      "touristVisa": {
+        "description": "Consulte o website oficial para informações sobre visto de turismo."
+      },
+      "rules": [
+        "Trabalho irrestrito",
+        "Permissão necessária para trabalho"
+      ]
+    }
+  },
+  {
+    "id": "20",
+    "name": "Emirados Árabes Unidos",
+    "flag": "/flags/Ae.jpg",
+    "description": "Destino emergente com economia forte e universidades internacionais.",
+    "community": {
+      "email": "",
+      "whatsapp": "",
+      "instagram": ""
+    },
+    "visaInfo": {
+      "studyVisa": {
+        "description": "Necessário para estudantes internacionais que pretendem estudar nos Emirados Árabes Unidos.",
+        "requirements": [
+          "Carta de aceitação",
+          "Comprovativo financeiro",
+          "Passaporte válido",
+          "Certificado médico",
+          "Certificado de registo criminal"
+        ],
+        "validity": "Duração do curso",
+        "steps": [
+          "Receber carta de aceitação",
+          "Submeter pedido",
+          "Pagar taxa",
+          "Agendar entrevista",
+          "Aguardar"
+        ],
+        "pdfLink": "#",
+        "officialWebsite": "https://www.moe.gov.ae",
+        "contact": {
+          "address": "Embaixada dos Emirados Árabes Unidos, Maputo",
+          "phone": "+258 21 493 000",
+          "email": "maputo@mofa.gov.ae"
+        }
+      },
+      "workPermit": {
+        "description": "Consulte o website oficial para informações sobre visto de trabalho."
+      },
+      "touristVisa": {
+        "description": "Consulte o website oficial para informações sobre visto de turismo."
+      },
+      "rules": [
+        "Trabalho limitado a 20 horas/semana",
+        "Permissão necessária para trabalho"
+      ]
+    }
+  },
+  {
+    "id": "21",
+    "name": "Japão",
+    "flag": "/flags/Jp.jpg",
+    "description": "País com cultura rica e tecnologia avançada.",
+    "community": {
+      "email": "",
+      "whatsapp": "",
+      "instagram": ""
+    },
+    "visaInfo": {
+      "studyVisa": {
+        "description": "Necessário para estudantes internacionais que pretendem estudar no Japão.",
+        "requirements": [
+          "Carta de aceitação",
+          "Comprovativo financeiro",
+          "Passaporte válido",
+          "Certificado médico",
+          "Certificado de registo criminal"
+        ],
+        "validity": "Duração do curso",
+        "steps": [
+          "Receber carta de aceitação",
+          "Submeter pedido",
+          "Pagar taxa",
+          "Agendar entrevista",
+          "Aguardar"
+        ],
+        "pdfLink": "#",
+        "officialWebsite": "https://www.studyinjapan.go.jp",
+        "contact": {
+          "address": "Embaixada do Japão, Maputo",
+          "phone": "+258 21 493 100",
+          "email": "japanemb.maputo@mofa.go.jp"
+        }
+      },
+      "workPermit": {
+        "description": "Consulte o website oficial para informações sobre visto de trabalho."
+      },
+      "touristVisa": {
+        "description": "Consulte o website oficial para informações sobre visto de turismo."
+      },
+      "rules": [
+        "Trabalho limitado a 28 horas/semana",
+        "Permissão necessária para trabalho"
+      ]
+    }
+  },
+  {
+    "id": "22",
+    "name": "Turquia",
+    "flag": "/flags/Tr.jpg",
+    "description": "País com localização estratégica e crescente oferta educacional.",
+    "community": {
+      "email": "",
+      "whatsapp": "",
+      "instagram": ""
+    },
+    "visaInfo": {
+      "studyVisa": {
+        "description": "Necessário para estudantes internacionais que pretendem estudar na Turquia.",
+        "requirements": [
+          "Carta de aceitação",
+          "Comprovativo financeiro",
+          "Passaporte válido",
+          "Certificado médico",
+          "Certificado de registo criminal"
+        ],
+        "validity": "Duração do curso",
+        "steps": [
+          "Receber carta de aceitação",
+          "Submeter pedido",
+          "Pagar taxa",
+          "Agendar entrevista",
+          "Aguardar"
+        ],
+        "pdfLink": "#",
+        "officialWebsite": "https://www.turkiyeburslari.gov.tr",
+        "contact": {
+          "address": "Embaixada da Turquia, Maputo",
+          "phone": "+258 21 493 200",
+          "email": "maputo@mfaturkiye.gov.tr"
+        }
+      },
+      "workPermit": {
+        "description": "Consulte o website oficial para informações sobre visto de trabalho."
+      },
+      "touristVisa": {
+        "description": "Consulte o website oficial para informações sobre visto de turismo."
+      },
+      "rules": [
+        "Trabalho limitado a 24 horas/semana",
+        "Permissão necessária para trabalho"
+      ]
+    }
+  },
+  {
+    "id": "23",
+    "name": "Austrália",
+    "flag": "/flags/Au.jpg",
+    "description": "País com alta qualidade de vida e oportunidades de trabalho.",
+    "community": {
+      "email": "",
+      "whatsapp": "",
+      "instagram": ""
+    },
+    "visaInfo": {
+      "studyVisa": {
+        "description": "Necessário para estudantes internacionais que pretendem estudar na Austrália.",
+        "requirements": [
+          "Carta de aceitação",
+          "Comprovativo financeiro",
+          "Passaporte válido",
+          "Certificado médico",
+          "Certificado de registo criminal",
+          "Carta de intenção"
+        ],
+        "validity": "Duração do curso",
+        "steps": [
+          "Receber carta de aceitação",
+          "Submeter pedido online",
+          "Pagar taxa",
+          "Agendar biometria",
+          "Aguardar"
+        ],
+        "pdfLink": "#",
+        "officialWebsite": "https://www.studyinaustralia.gov.au",
+        "contact": {
+          "address": "Embaixada da Austrália, Maputo",
+          "phone": "+258 21 493 300",
+          "email": "maputo@dfat.gov.au"
+        }
+      },
+      "workPermit": {
+        "description": "Consulte o website oficial para informações sobre visto de trabalho."
+      },
+      "touristVisa": {
+        "description": "Consulte o website oficial para informações sobre visto de turismo."
+      },
+      "rules": [
+        "Trabalho limitado a 40 horas/quinzena",
+        "Trabalho irrestrito durante férias"
+      ]
+    }
+  }
+]

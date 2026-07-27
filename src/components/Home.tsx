@@ -227,7 +227,7 @@ const Home: React.FC<HomeProps> = () => {
   const stats = [
     {
       label: "Países Disponíveis",
-      value: 10,
+      value: 20,
       suffix: "+",
       icon: Globe,
       color: "text-cyan-600 dark:text-cyan-400",
@@ -235,7 +235,7 @@ const Home: React.FC<HomeProps> = () => {
     },
     {
       label: "Estudantes Ajudados",
-      value: 32,
+      value: 70,
       suffix: "+",
       icon: Users,
       color: "text-purple-600 dark:text-purple-400",
@@ -243,8 +243,8 @@ const Home: React.FC<HomeProps> = () => {
     },
     {
       label: "Testes Realizados",
-      value: 40,
-      suffix: "+",
+      value: 104,
+      suffix: "",
       icon: Newspaper,
       color: "text-green-600 dark:text-green-400",
       description: "Avaliações feitas para orientar decisões com mais clareza.",
@@ -347,7 +347,7 @@ const Home: React.FC<HomeProps> = () => {
     () => ({
       title: "Traça o Trilho para o Teu Ensino Superior",
       description:
-        "Agora com cartões interativos: toca ou clica para ver mais informação relevante dentro de cada funcionalidade.",
+        "Toca ou clica para ver mais informação relevante dentro de cada funcionalidade.",
     }),
     []
   );
@@ -396,19 +396,19 @@ const Home: React.FC<HomeProps> = () => {
                 <Link to="/escolher-teste">
                   <button className="group inline-flex items-center justify-center gap-2 rounded-2xl bg-gradient-to-r from-cyan-500 to-blue-600 px-8 py-4 text-base font-semibold text-white shadow-xl shadow-blue-500/20 transition-all duration-300 hover:-translate-y-1 hover:shadow-2xl">
                     <Rocket className="h-5 w-5 group-hover:animate-pulse" />
-                    <span>Começar agora</span>
+                    <span>Fazer Teste Vocacional</span>
                     <ArrowRight className="h-5 w-5 transition-transform group-hover:translate-x-1" />
                   </button>
                 </Link>
 
-                <Link to="/escolher-teste">
+                <Link to="/recursos">
                   <button className="rounded-2xl border border-gray-200 bg-white px-8 py-4 text-base font-semibold text-gray-900 shadow-sm transition-all duration-300 hover:-translate-y-1 hover:border-cyan-300 hover:shadow-lg dark:border-white/10 dark:bg-white/[0.04] dark:text-white">
-                    Fazer Teste Vocacional
+                    Ver Bolsas de Estudo
                   </button>
                 </Link>
               </div>
 
-              <div className="mt-10 max-w-2xl">
+              {/* <div className="mt-10 max-w-2xl">
                 <div className="flex items-start gap-3 rounded-3xl border border-yellow-200 bg-yellow-50 p-4 text-left text-yellow-800 shadow-sm dark:border-yellow-900 dark:bg-yellow-500/10 dark:text-yellow-300">
                   <AlertTriangle className="mt-0.5 h-6 w-6 shrink-0 text-yellow-500" />
                   <div>
@@ -421,7 +421,7 @@ const Home: React.FC<HomeProps> = () => {
                     </p>
                   </div>
                 </div>
-              </div>
+              </div> */}
             </div>
 
             <div className="relative mx-auto w-full max-w-[660px] lg:max-w-none">
